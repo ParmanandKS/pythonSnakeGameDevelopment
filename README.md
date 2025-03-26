@@ -8,4 +8,4 @@ A simple snake game built using Python and Pygame.
 
 ## How to Run
 ```bash
-python snake.py
+snakeGame.py
