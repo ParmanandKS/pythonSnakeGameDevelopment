@@ -1,5 +1,5 @@
 # Python Snake Game 🐍🎮
-A simple snake game built using Python and Pygame.
+A simple snake game built using Python.
 
 ## Features
 - Classic snake movement
